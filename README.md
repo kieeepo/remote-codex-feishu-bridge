@@ -21,6 +21,14 @@ A local Feishu-to-Codex bridge for remote phone control and document generation.
 5. Fill in your Feishu app credentials and Codex path.
 6. Run `start-feishu.cmd`.
 
+## Installation Guide
+
+See [INSTALL.md](INSTALL.md) for Feishu bot setup, Codex path configuration, and local startup instructions.
+
+## 安装教程
+
+飞书机器人配置、Codex 路径配置和本地启动方式请看 [INSTALL.md](INSTALL.md)。
+
 ## Security
 
 - Do not publish `.env.local`.
