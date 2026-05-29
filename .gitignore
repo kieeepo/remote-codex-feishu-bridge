@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Remote Codex Bridge local data
+.env.local
+uploads/
+outputs/
+data/
+dist/
